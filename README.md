@@ -37,13 +37,6 @@
       width="40"
       height="40"
   /></a>
-  <a href="https://d3js.org/" target="_blank"
-    ><img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg"
-      alt="d3js"
-      width="40"
-      height="40"
-  /></a>
   <a href="https://git-scm.com/" target="_blank"
     ><img
       src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
@@ -134,5 +127,4 @@
 <p align="center">
   <a href="https://www.leetcode.com/zetaraku" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="zetaraku" height="30" width="40" /></a>
   <a href="https://www.hackerrank.com/zetaraku" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="zetaraku" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/zetaraku" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zetaraku" height="30" width="40" /></a>
 </p>
