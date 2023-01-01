@@ -1,21 +1,7 @@
 <h1 align="center">Hi there 👋, this is zetaraku <:)</h1>
 <h3 align="center">A passionate software developer from Taiwan</h3>
-<br/>
+<br />
 <p align="center">
-  <a href="https://www.cprogramming.com/" target="_blank"
-    ><img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
-      alt="c"
-      width="40"
-      height="40"
-  /></a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank"
-    ><img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-      alt="cplusplus"
-      width="40"
-      height="40"
-  /></a>
   <a href="https://www.w3.org/html/" target="_blank"
     ><img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
@@ -58,10 +44,24 @@
       width="40"
       height="40"
   /></a>
+  <a href="https://reactjs.org/" target="_blank"
+    ><img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+      alt="react"
+      width="40"
+      height="40"
+  /></a>
   <a href="https://vuetifyjs.com/en/" target="_blank"
      ><img
       src="https://bestofjs.org/logos/vuetify.svg"
       alt="vuetify"
+      width="40"
+      height="40"
+  /></a>
+  <a href="https://mui.com/" target="_blank"
+     ><img
+      src="https://raw.githubusercontent.com/mui/material-ui/master/docs/public/static/logo.svg"
+      alt="mui"
       width="40"
       height="40"
   /></a>
@@ -72,6 +72,7 @@
       width="40"
       height="40"
   /></a>
+  <br />
   <a href="https://nodejs.org" target="_blank"
     ><img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
@@ -79,10 +80,17 @@
       width="40"
       height="40"
   /></a>
-  <a href="https://mochajs.org" target="_blank"
+  <a href="https://expressjs.com" target="_blank"
     ><img
-      src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg"
-      alt="mocha"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
+      alt="express"
+      width="40"
+      height="40"
+  /></a>
+  <a href="https://nestjs.com/" target="_blank"
+    ><img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg"
+      alt="nestjs"
       width="40"
       height="40"
   /></a>
@@ -100,10 +108,39 @@
       width="40"
       height="40"
   /></a>
-  <a href="https://www.linux.org/" target="_blank"
+  <a href="https://mochajs.org" target="_blank"
     ><img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
-      alt="linux"
+      src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg"
+      alt="mocha"
+      width="40"
+      height="40"
+  /></a>
+  <a href="https://jestjs.io" target="_blank"
+    ><img
+      src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg"
+      alt="jest"
+      width="40"
+      height="40"
+  /></a>
+  <br />
+  <a href="https://www.cprogramming.com/" target="_blank"
+    ><img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
+      alt="c"
+      width="40"
+      height="40"
+  /></a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank"
+    ><img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
+      alt="cplusplus"
+      width="40"
+      height="40"
+  /></a>
+  <a href="https://www.perl.org/" target="_blank"
+    ><img
+      src="https://api.iconify.design/logos-perl.svg"
+      alt="perl"
       width="40"
       height="40"
   /></a>
@@ -114,10 +151,10 @@
       width="40"
       height="40"
   /></a>
-  <a href="https://www.perl.org/" target="_blank"
+  <a href="https://www.linux.org/" target="_blank"
     ><img
-      src="https://api.iconify.design/logos-perl.svg"
-      alt="perl"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
+      alt="linux"
       width="40"
       height="40"
   /></a>
