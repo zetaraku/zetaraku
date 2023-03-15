@@ -165,6 +165,13 @@
       width="40"
       height="40"
   /></a>
+  <a href="https://github.com/features/actions" target="_blank"
+    ><img
+      src="https://github.githubassets.com/images/modules/site/features/actions-icon-actions.svg"
+      alt="actions"
+      width="40"
+      height="40"
+  /></a>
   <a href="https://aws.amazon.com" target="_blank"
     ><img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
