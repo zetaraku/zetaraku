@@ -87,6 +87,13 @@
       width="40"
       height="40"
   /></a>
+  <a href="https://www.fastify.io/" target="_blank"
+    ><img
+      src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Fastify.png"
+      alt="fastify"
+      width="40"
+      height="40"
+  /></a>
   <a href="https://nestjs.com/" target="_blank"
     ><img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg"
