@@ -96,7 +96,7 @@
   /></a>
   <a href="https://nestjs.com/" target="_blank"
     ><img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg"
       alt="nestjs"
       width="40"
       height="40"
