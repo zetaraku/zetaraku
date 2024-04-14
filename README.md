@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, this is zetaraku <:)</h1>
-<h3 align="center">A passionate software developer from Taiwan</h3>
+<h3 align="center">A passionate software developer from Taiwan (Available for hire!)</h3>
 <br />
 <p align="center">
   <a href="https://www.w3.org/html/" target="_blank"
