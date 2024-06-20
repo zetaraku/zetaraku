@@ -1,5 +1,6 @@
 <h1 align="center">Hi there 👋, this is zetaraku <:)</h1>
-<h3 align="center">A passionate software developer from Taiwan (Available for hire!)</h3>
+<h3 align="center">A passionate software developer from Taiwan</h3>
+<h3 align="center">(Available for hire!)</h3>
 <br />
 <p align="center">
   <a href="https://www.w3.org/html/" target="_blank"
@@ -126,6 +127,20 @@
     ><img
       src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg"
       alt="jest"
+      width="40"
+      height="40"
+  /></a>
+  <a href="https://vitest.dev/" target="_blank"
+    ><img
+      src="https://vitest.dev/logo-shadow.svg"
+      alt="vitest"
+      width="40"
+      height="40"
+  /></a>
+  <a href="https://testing-library.com/" target="_blank"
+    ><img
+      src="https://testing-library.com/img/logo-large.png"
+      alt="testing-library"
       width="40"
       height="40"
   /></a>
