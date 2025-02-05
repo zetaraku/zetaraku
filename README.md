@@ -200,6 +200,13 @@
       width="40"
       height="40"
   /></a>
+  <a href="https://www.vim.org/" target="_blank"
+    ><img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg"
+      alt="vim"
+      width="40"
+      height="40"
+  /></a>
   <a href="https://git-scm.com/" target="_blank"
     ><img
       src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
